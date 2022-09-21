@@ -1,4 +1,4 @@
-## Olá! Eu sou o Leonardo Mendonça Ferreira (Léo)
+## Olá! Eu sou o Leonardo Mendonça Ferreira (Léo) 🧑🏿
 
 <ddiv align="center">
   <a href="https://github.com/Leomendferre">
