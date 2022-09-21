@@ -1,4 +1,4 @@
-## Olá! Eu sou o Leonardo Mendonça Ferreira (Léo) 🧑🏿
+## Olá! Eu sou o Leonardo Mendonça Ferreira (Léo)
 
 <ddiv align="center">
   <a href="https://github.com/Leomendferre">
@@ -6,7 +6,9 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leomendferre&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+  
   <div style="display: inline_block"><br>
+   <h3>Essas são algumas das principais tecnologias que eu estudo ou já estudei:</h3>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Leo-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
