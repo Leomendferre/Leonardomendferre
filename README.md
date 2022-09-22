@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Leonardo Mendonça Ferreira (Léo)
 
+- 👨🏿‍🎓 Estudante de Analise e desenvolvimento de sistemas na FATEC - Franca
+
 <ddiv align="center">
   <a href="https://github.com/Leomendferre">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Leomendferre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
