@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Leonardo Mendonça Ferreira (Léo)
 
 🎓 Estudante de Analise e desenvolvimento de sistemas na FATEC - Franca <br>
-🎯 Objetivo: Atuar na área de desenvolvimento e segurança de sistemas.
+🎯 Objetivo: Atuar na área de segurança de sistemas.
 
 <div align="center">
   <a href="https://github.com/Leomendferre">
