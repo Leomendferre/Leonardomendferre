@@ -1,4 +1,4 @@
-## Olá! Eu sou o Leonardo Mendonça Ferreira (Léo)
+## Olá! Eu sou o Leonardo Mendonça Ferreira (Mendonça)
 
 🎓 Formado em Analise e desenvolvimento de sistemas na FATEC - Franca <br>
 
