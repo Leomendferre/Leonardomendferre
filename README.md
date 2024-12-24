@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Leonardo Mendonça Ferreira (Léo)
 
-🎓 Estudante de Analise e desenvolvimento de sistemas na FATEC - Franca <br>
+🎓 Formado em Analise e desenvolvimento de sistemas na FATEC - Franca <br>
 
 <div align="center">
   <a href="https://github.com/Leomendferre">
